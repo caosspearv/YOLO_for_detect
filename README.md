@@ -1,7 +1,7 @@
 # YOLO_for_detect
 Material de instrução de uso da ferramenta YOLO voltada para detecção de objetos
 ## Obtendo a ferramenta
-Primeiro passo: https://github.com/ultralytics/ultralytics
+Primeiro passo: https://github.com/ultralytics/ultralytics -- examples/tutorial.ipynb
 on colab: GPU:T4
 ### Fontes de imagens
 - [roboflow](https://roboflow.com/)
