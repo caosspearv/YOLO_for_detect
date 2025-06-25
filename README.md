@@ -6,7 +6,7 @@ on colab: GPU:T4
 ### Fontes de imagens
 - [roboflow](https://roboflow.com/)
 - O melhor dataset que encontrei foi este https://universe.roboflow.com/roboflow-100/vehicles-q0x2v/dataset/2/download
-- - Esse dataset está com problema agora. Tentar este:https://universe.roboflow.com/yolov7test-u13vc/weapon-detection-m7qso/dataset/4#
+- - Esse dataset está com problema agora. 
 - Para imagens próprias: Label Studio
 -- pip install label-studio
 --  label-studio start
