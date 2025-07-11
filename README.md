@@ -11,6 +11,7 @@ No colab, utilizar ambiente de exeução _GPU:T4_
   - Nem todos os dataset são de boa qualidade e o treinamento pode não ser efetivo.
   - O melhor dataset que encontrei foi este https://universe.roboflow.com/roboflow-100/vehicles-q0x2v/dataset/1/download
 ### Para imagens próprias: Label Studio
+_Link video tutorial: https://youtu.be/r0RspiLG260?si=i_cKXbIDMu8VX9cr_
 - instalar anaconda: https://www.anaconda.com/download
 - depois de instalado, abrir *Anaconda prompt* e seguir os comandos:
   - create --name yolo-env1 python=3.12 #criação de ambiente python para o YOLO
