@@ -1,12 +1,15 @@
 # YOLO_for_detect
-Material de instrução de uso da ferramenta YOLO voltada para detecção de objetos
+Material de instrução de uso da ferramenta YOLO voltada para detecção de objetos com foco no treinamento da ferramenta.
 ## Obtendo a ferramenta
-Primeiro passo: https://github.com/ultralytics/ultralytics -- examples/tutorial.ipynb
-on colab: GPU:T4
-### Fontes de imagens
+Site oficial: https://github.com/ultralytics/ultralytics -- examples/tutorial.ipynb
+Forma rápida: pip install ultralitycs
+## Dicas prévias de utilização
+No colab, utilizar ambiente de exeução _GPU:T4_
+## Fontes de imagens
+### Pack de imagens prontas
 - [roboflow](https://roboflow.com/)
-- O melhor dataset que encontrei foi este https://universe.roboflow.com/roboflow-100/vehicles-q0x2v/dataset/2/download
-- - Esse dataset está com problema agora. 
+-- Nem todos os dataset são de boa qualidade e o treinamento pode não ser efetivo.
+-- O melhor dataset que encontrei foi este https://universe.roboflow.com/roboflow-100/vehicles-q0x2v/dataset/1/download
 - Para imagens próprias: Label Studio
 -- pip install label-studio
 --  label-studio start
