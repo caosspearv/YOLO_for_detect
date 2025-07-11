@@ -22,5 +22,5 @@ Após iniciado, será aberto o site do label studio de forma local, não será u
 
 ## Treinamento
 O git possui dois arquivos jupter que podem ser abertos no google colab para realização do treinamento do YOLO.
-- 
-- Train_YOLO_OwnModels: Arquivo para quem quiser criar seu próprio pack de imagens para uma aplicação específica ou que não encontrar um data-set alinhado ao objetivo de uso.
+- Tutorial_Yolo_FromSource.ipynb: Arquivo tirado do site ofcial com algumas modificações para utilização de data-set já prontos (roboflow)
+- Train_YOLO_OwnModels.ipynb: Arquivo para quem quiser criar seu próprio pack de imagens (Label-Studio) para uma aplicação específica ou que não encontrar um data-set alinhado ao objetivo de uso.
