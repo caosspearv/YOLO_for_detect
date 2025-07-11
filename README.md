@@ -13,7 +13,7 @@ No colab, utilizar ambiente de exeução _GPU:T4_
 ## Para imagens próprias: Label Studio
 - instalar anaconda: https://www.anaconda.com/download
 - depois de instalado, abrir *Anaconda prompt* e seguir os comandos:
-  - create --name yolo-env1 python=3.12
+  - create --name yolo-env1 python=3.12 #criação de ambiente python para o YOLO
   - 
 ## Usando a ferramenta
 Rodar o setup do jeito que veio para fazer as instalações e validar modelo.
