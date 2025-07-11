@@ -14,11 +14,11 @@ No colab, utilizar ambiente de exeução _GPU:T4_
 _Link video tutorial: https://youtu.be/r0RspiLG260?si=i_cKXbIDMu8VX9cr_
 - instalar anaconda: https://www.anaconda.com/download
 - depois de instalado, abrir *Anaconda prompt* e seguir os comandos:
-  - create --name yolo-env1 python=3.12 #criação de ambiente python para o YOLO
+  - create --name yolo-env1 python=3.12       #criação de ambiente python para o YOLO
   - conda activate yolo-env1
   - pip install label-studio
   - label-studio start
-  - Exportar modelo: YOLO with images
+- Exportar modelo: YOLO with images
 Após iniciado, será aberto o site do label studio de forma local, não será uma plataforma online. Com isso, clique em _sign up_ e em email e senha usar _fake@fake.com_ e _fakepassword_.
 
 ## Treinamento
